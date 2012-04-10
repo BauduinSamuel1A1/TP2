@@ -1,22 +1,22 @@
 #container
 {
-	margin: 0 30px;
-	background: #fff;
+	margin: 0 40px;
+	background: #bcc;
 }
 
 #header
 {
-	background: #ccc;
-	padding: 20px;
+	background: #abe;
+	padding: 10px;
 }
 
 #header h1 { margin: 0; }
 
 #navigation
 {
-	float: left;
+	float: center;
 	width: 100%;
-	background: #333;
+	background: #afa;
 }
 
 #navigation ul
@@ -34,11 +34,11 @@
 #navigation li a
 {
 	display: block;
-	float: left;
+	float: right;
 	padding: 5px 10px;
-	color: #fff;
+	color: #acd;
 	text-decoration: none;
-	border-right: 1px solid #fff;
+	border-right: 1px solid #bae;
 }
 
 #navigation li a:hover { background: #383; }
@@ -46,8 +46,8 @@
 #edito
 {
 	clear: left;
-	padding: 20px;
-	margin: 20px;
+	padding: 10px;
+	margin: 10px;
 	-webkit-border-radius: 18px;
 	border-radius: 18px;
 	-webkit-box-shadow: 0px 0px 6px #000000;
@@ -69,10 +69,10 @@
 
 #news
 {	
-	float: left;
-	width: 40%;
-	padding: 20px;
-	margin: 20px;
+	float: right;
+	width: 95%;
+	padding: 15px;
+	margin: 15px;
 	-webkit-border-radius: 18px;
 	border-radius: 18px;
 	-webkit-box-shadow: 0px 0px 6px #000000;
@@ -88,8 +88,8 @@
 #footer
 {
 	clear: both;
-	background: #ccc;
-	text-align: right;
+	background: #eca;
+	text-align: center;
 	padding: 20px;
 	height: 1%;
 }
